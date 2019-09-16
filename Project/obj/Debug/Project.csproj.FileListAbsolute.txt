@@ -1,0 +1,36 @@
+D:\Education\Third Year\305 C#\Project\Project\bin\Debug\Project.exe.config
+D:\Education\Third Year\305 C#\Project\Project\bin\Debug\Project.exe
+D:\Education\Third Year\305 C#\Project\Project\bin\Debug\Project.pdb
+D:\Education\Third Year\305 C#\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Education\Third Year\305 C#\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Education\Third Year\305 C#\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\Education\Third Year\305 C#\Project\Project\obj\Debug\Project.exe
+D:\Education\Third Year\305 C#\Project\Project\obj\Debug\Project.pdb
+D:\Education\Third Year\305 C#\Project\Project\obj\Debug\Project.ConverterL.resources
+D:\Education\Third Year\305 C#\Project\Project\obj\Debug\Project.ConverterT.resources
+D:\Education\Third Year\305 C#\Project\Project\obj\Debug\Project.FormulaTable.resources
+D:\Education\Third Year\305 C#\Project\Project\obj\Debug\Project.Home.resources
+D:\3CS-103\Project\Project\bin\Debug\Project.exe.config
+D:\3CS-103\Project\Project\obj\Debug\Project.exe
+D:\3CS-103\Project\Project\obj\Debug\Project.pdb
+D:\3CS-103\Project\Project\bin\Debug\Project.exe
+D:\3CS-103\Project\Project\bin\Debug\Project.pdb
+D:\3CS-103\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\3CS-103\Project\Project\obj\Debug\Project.ConverterT.resources
+D:\3CS-103\Project\Project\obj\Debug\Project.Home.resources
+D:\3CS-103\Project\Project\obj\Debug\Project.FormulaTable.resources
+D:\3CS-103\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\3CS-103\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\3CS-103\Project\Project\obj\Debug\Project.ConverterW.resources
+D:\GG\3CS-103\Project\Project\bin\Debug\Project.exe.config
+D:\GG\3CS-103\Project\Project\obj\Debug\Project.exe
+D:\GG\3CS-103\Project\Project\obj\Debug\Project.pdb
+D:\GG\3CS-103\Project\Project\bin\Debug\Project.exe
+D:\GG\3CS-103\Project\Project\bin\Debug\Project.pdb
+D:\GG\3CS-103\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\GG\3CS-103\Project\Project\obj\Debug\Project.ConverterT.resources
+D:\GG\3CS-103\Project\Project\obj\Debug\Project.ConverterW.resources
+D:\GG\3CS-103\Project\Project\obj\Debug\Project.Home.resources
+D:\GG\3CS-103\Project\Project\obj\Debug\Project.FormulaTable.resources
+D:\GG\3CS-103\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\GG\3CS-103\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
